@@ -1,5 +1,11 @@
 # NewsByKouzi
-Automatically generate daily news with the help of Kouzi.
+  借助Kouzi自动生成每日新闻。
+
+  ##提示词（仅对KouziAI进行了实测）：
+    总结新闻，分为政治、文化、三农、科技、经济板块，简要聚焦河南天气，简要概述全国天气，开头播报日期时加上农历，并以较快语速生成3到10分钟以内的语音播报。
+
+#什么是Kouzi?
+  "扣子开发平台是一站式 Al Agent 开发工具。提供各类最新大模型和工具、多种开发模式和框架，从开发到部署，为你提供最便捷的 Al Agent 开发环境。"(官网里的原话)
 
 # 免责声明
 
